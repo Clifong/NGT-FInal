@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e59e3c8b9abe4a499a36e8c9fd4e36e2, type: 3}
+  m_Name: DialogueName8
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueMultipleChoiceSO
+  <NodeName>k__BackingField: DialogueName8
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: New Choice
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 8f48be8d3934aa24e8c0e14bb192853b, type: 2}
+  <IsStartingDialogue>k__BackingField: 0
+  <Text>k__BackingField: Other than growing income leading to more Chinese men focusing
+    on grooming and hygiene, another factor that leads to this consequence and also
+    indirectly tied to capitalism is again the popularity of South Korean idol  imported
+    into China by global capitalism.
+  <Actions>k__BackingField: []
+  <LeftSprites>k__BackingField:
+  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  <RightSprites>k__BackingField: []
+  <IsChoiceNode>k__BackingField: 0
+  <IsRememberChoiceNode>k__BackingField: 0
+  <RememberChoiceDataSO>k__BackingField: {fileID: 0}
+  <ChoicesSO>k__BackingField:
+  - {fileID: 0}
+  <BackgroundImage>k__BackingField: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}

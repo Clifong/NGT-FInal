@@ -18,7 +18,9 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 3ef529928448c2a4fb951abc3d0e3300, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: When America was founded, physical strength was required
-    to acquire more land. Hence, such traits are admired
+    to acquire more land. Hence, such traits are admired. This was further deepened
+    as throughout American history, there were quite a few wars such as the civil
+    war. Hence, such traits were held in high regards.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
   - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}

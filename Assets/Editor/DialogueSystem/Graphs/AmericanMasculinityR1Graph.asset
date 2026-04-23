@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: AmericanMasculinityR1Graph
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::DS.Data.Save.DSGraphSaveDataSO
+  <FileName>k__BackingField: AmericanMasculinityR1
+  <Groups>k__BackingField: []
+  <DialogueNodes>k__BackingField:
+  - <ID>k__BackingField: d5132a37-36f1-4e46-a971-ce07d3999670
+    <Name>k__BackingField: DialogueName3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 75c6f65b-4588-4edc-a312-d97c9fe58fd8
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 1742.4, y: 44}
+    <Text>k__BackingField: American universities and college tend to be more liberal
+      in nature. A large percentage of students admitted to such institutions lean
+      more towards the liberal left, and staff members similarly also share similar
+      political beliefs.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 75c6f65b-4588-4edc-a312-d97c9fe58fd8
+    <Name>k__BackingField: DialogueName4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: cdef18b2-de92-431c-a1f5-f5797429c6fd
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 2462.4, y: 44}
+    <Text>k__BackingField: As a result, men who enter college or universities tend
+      to adopt more liberal values over time. One such values would be the concept
+      of hybrid masculinity which encourages more emotional vulnerability and softness
+      amongst men
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: d4ce026e-1625-41ea-9e6c-7e4dc07edb22
+    <Name>k__BackingField: DialogueName
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 5b1d233a-31ea-4b33-85f5-d3ee90c0aab3
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 179.2, y: 64.799995}
+    <Text>k__BackingField: 'One reason for the evolution of American contemporary
+      masculinity is growing income and more people that rise up the social ladder
+      can enter universities or colleges '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 5b1d233a-31ea-4b33-85f5-d3ee90c0aab3
+    <Name>k__BackingField: DialogueName2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: d5132a37-36f1-4e46-a971-ce07d3999670
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 936, y: 64.799995}
+    <Text>k__BackingField: The number of undergraduate admissions has been rising
+      across the years. Although there are decline for some years, the overall trend
+      is still an increase
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField:
+    - {fileID: 8993946036734938372, guid: 9cb2e257432a2d84380b22a86bed8bd5, type: 3}
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: cdef18b2-de92-431c-a1f5-f5797429c6fd
+    <Name>k__BackingField: DialogueName6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Those who rise to the upper middle income bracket and
+        beyond studying in such institutions?
+      <NodeID>k__BackingField: 8e10d5f6-b5d1-4626-8d6d-f851053c8dbf
+    - <Text>k__BackingField: Not sure?
+      <NodeID>k__BackingField: 47fd3a0a-6847-47fe-9056-2d540eabf519
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 3332, y: 29.6}
+    <Text>k__BackingField: What we discussed previously mainly looks at the men from
+      the growing middle income class. Hence, who should we look at next?
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 1
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 79462f47-8e45-406c-9684-d092eb6edc9c
+    <Name>k__BackingField: DialogueName8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 605fcf6a-6f7e-4ab5-8a27-f84401ca3cb4
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 4977.6, y: 70.4}
+    <Text>k__BackingField: There is a general correlation between wealth and political
+      values. Research show that the wealthy tend to support democratic more and
+      lean towards liberal values
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 8e10d5f6-b5d1-4626-8d6d-f851053c8dbf
+    <Name>k__BackingField: DialogueName7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 79462f47-8e45-406c-9684-d092eb6edc9c
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 4325.6, y: -357.6}
+    <Text>k__BackingField: That's right
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 47fd3a0a-6847-47fe-9056-2d540eabf519
+    <Name>k__BackingField: DialogueName7dash2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 79462f47-8e45-406c-9684-d092eb6edc9c
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 4374.4, y: 396.80002}
+    <Text>k__BackingField: Well, those who rise to the upper middle income bracket
+      and beyond
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 605fcf6a-6f7e-4ab5-8a27-f84401ca3cb4
+    <Name>k__BackingField: DialogueName9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: d51fd9dd-a3d9-453d-bcef-caa84ec50390
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 5709.6, y: 93.6}
+    <Text>k__BackingField: 'Additionally, wealthier and priviledge men tends to have
+      more freedom to choose what kind of masculinity they choose to potray. '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 33026cf5-cb45-44d0-bc75-c968ad7d5807
+    <Name>k__BackingField: DialogueName11
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 450db2de-dcbf-40cf-9be6-7a8dd8f9ec1b
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 7158.4, y: 121.6}
+    <Text>k__BackingField: Then this begs the question, how does this tie in between
+      capitalism, universities and the rise of contemporary masculinity amongst men
+      coming from such institutions? How exactly does wealthy men Americans play
+      ino this?
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 450db2de-dcbf-40cf-9be6-7a8dd8f9ec1b
+    <Name>k__BackingField: DialogueName12
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 3d1be908-f800-4b80-b4de-86ee6e06e008
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 7895.2, y: 146.40001}
+    <Text>k__BackingField: The answer is in fraternities.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 3d1be908-f800-4b80-b4de-86ee6e06e008
+    <Name>k__BackingField: DialogueName13
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: a42fa2a0-2793-4e34-b6db-e9f808f430ff
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 8425.6, y: 155.20001}
+    <Text>k__BackingField: Fraternities are a type of student run club in American
+      universities and colleges for male students. Many wealthy and powerful students
+      tend to be in fraternities. According to Berkley, "80 percent of Fortune 500
+      executives, 76 percent of U.S. senators and congressmen, 85 percent of Supreme
+      Court justices, and all but two presidents since 1825 have been fraternity
+      men"
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: a42fa2a0-2793-4e34-b6db-e9f808f430ff
+    <Name>k__BackingField: DialogueName14
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: d473dd18-7f3d-4c6e-b8a4-c187676ec7c9
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 9144, y: 172.8}
+    <Text>k__BackingField: As such, it can be seen that fraternities are a way for
+      men to climb the social ladder and forge connections that can help them in
+      the future. In fact, researchers have found that they help boost a person's
+      income by 36%
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: d473dd18-7f3d-4c6e-b8a4-c187676ec7c9
+    <Name>k__BackingField: DialogueName15
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 9853.6, y: 172.8}
+    <Text>k__BackingField: As we established earlier that wealthier americans tend
+      to display hybrid masculinity, men who seek to increase their social standing
+      regardless of their wealth would therefore need to share such beliefs as well,
+      thereby normalizing this form of masculinity in university and also explains
+      why more college educated men would then adop it
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: d51fd9dd-a3d9-453d-bcef-caa84ec50390
+    <Name>k__BackingField: DialogueName10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 33026cf5-cb45-44d0-bc75-c968ad7d5807
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 6453.6, y: 93.6}
+    <Text>k__BackingField: Unsurprisingly, wealthy americans that go to universities
+      tend to display such forms of hybrid masculinity
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  <ActionsOnlyNodes>k__BackingField: []
+  <ConditionsOnlyNodes>k__BackingField: []
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - DialogueName3
+  - DialogueName4
+  - DialogueName
+  - DialogueName2
+  - DialogueName6
+  - DialogueName8
+  - DialogueName7
+  - DialogueName7dash2
+  - DialogueName9
+  - DialogueName11
+  - DialogueName12
+  - DialogueName13
+  - DialogueName14
+  - DialogueName15
+  - DialogueName10
+  <OldGroupedNodeNames>k__BackingField:
+    _saintsKeys: []
+    _wrapTypeKey: 4
+    _saintsValues: []
+    _wrapTypeValue: 4
+    saintsSerializedVersion: 2
+    _keys: []
+  references:
+    version: 2
+    RefIds: []

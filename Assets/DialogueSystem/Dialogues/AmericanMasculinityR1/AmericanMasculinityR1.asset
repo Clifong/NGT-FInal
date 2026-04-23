@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: AmericanMasculinityR1
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueContainerSO
+  <FileName>k__BackingField: AmericanMasculinityR1
+  <Groups>k__BackingField:
+    _saintsKeys: []
+    _wrapTypeKey: 4
+    _saintsValues: []
+    _wrapTypeValue: 4
+    saintsSerializedVersion: 2
+    _keys: []
+  <UngroupedNodes>k__BackingField:
+  - {fileID: 11400000, guid: 96552686bb5ac4141b37e298e4a6b387, type: 2}
+  - {fileID: 11400000, guid: 65e34881296cc1e4c8cb4eec60e9acf9, type: 2}
+  - {fileID: 11400000, guid: 8a3e2805e3cb35d4a8d93b533bd69503, type: 2}
+  - {fileID: 11400000, guid: f9a761f30aaee84408809a20e9892798, type: 2}
+  - {fileID: 11400000, guid: 2e9873d2d286d444aa717562d8843083, type: 2}
+  - {fileID: 11400000, guid: 1c1f8df807a94af4bac641a91ef017ba, type: 2}
+  - {fileID: 11400000, guid: cd176b41b3780ba4dbda2bfd83e9a6fd, type: 2}
+  - {fileID: 11400000, guid: 1538e3e15f978ed4e8a941eefb541195, type: 2}
+  - {fileID: 11400000, guid: 1fbea4a6650882d49bd1a849d2c602f8, type: 2}
+  - {fileID: 11400000, guid: 2aca15516b6ca5645ba8fa65a856d7bb, type: 2}
+  - {fileID: 11400000, guid: ad7548f3225e1134290bc9f9f67702a8, type: 2}
+  - {fileID: 11400000, guid: c1c804173146a1a4088eac4cc33812f4, type: 2}
+  - {fileID: 11400000, guid: f0e10abc380d370498f2d412376262ab, type: 2}
+  - {fileID: 11400000, guid: fc4e8dc1d7e28a04bbf0ee3a73db1a6f, type: 2}
+  - {fileID: 11400000, guid: 446d059b045d86443acb592bcc388390, type: 2}
+  <StartingNodes>k__BackingField:
+  - {fileID: 11400000, guid: 8a3e2805e3cb35d4a8d93b533bd69503, type: 2}
+  references:
+    version: 2
+    RefIds: []

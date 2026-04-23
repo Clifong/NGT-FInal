@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6783c1a4ccf8d6d42b23f7f688b39073, type: 3}
+  m_Name: MMORPG games
+  m_EditorClassIdentifier: Assembly-CSharp::IconsSO
+  iconImage: {fileID: 4444992000917314749, guid: 3a0476cf478586448ad5447f9e26a32a, type: 3}
+  description: MMORPG games are extremely popular in China Most MMORPG games are
+    of the Xianxia genre. Male characters in Xianxia games tend to have an androgynous
+    look, with fair slender complexions and slender bodies.

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e59e3c8b9abe4a499a36e8c9fd4e36e2, type: 3}
+  m_Name: DialogueName7
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueMultipleChoiceSO
+  <NodeName>k__BackingField: DialogueName7
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: New Choice
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 49f0f19ebf22b174d87de444efcdcf58, type: 2}
+  <IsStartingDialogue>k__BackingField: 0
+  <Text>k__BackingField: According to research, the rise in income amongst Chinese
+    men for instance has led to increased focus on grooming. In particular, Chinese
+    men between the age of 18 and 26 have became the main driving force of the male
+    beauty market
+  <Actions>k__BackingField: []
+  <LeftSprites>k__BackingField:
+  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  <RightSprites>k__BackingField: []
+  <IsChoiceNode>k__BackingField: 0
+  <IsRememberChoiceNode>k__BackingField: 0
+  <RememberChoiceDataSO>k__BackingField: {fileID: 0}
+  <ChoicesSO>k__BackingField:
+  - {fileID: 0}
+  <BackgroundImage>k__BackingField: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6783c1a4ccf8d6d42b23f7f688b39073, type: 3}
+  m_Name: GOW
+  m_EditorClassIdentifier: Assembly-CSharp::IconsSO
+  iconImage: {fileID: 21300000, guid: d496de5628727e245a6fa39db447367d, type: 3}
+  description: The God of War franchise is a well known hack and slash game. In terms
+    of character growth, the main protagonist, Kratos, has involved across the games.
+    In the more recent entries, Kratos being a father now has to take care of his
+    child after the death of his wife. Kratos went from a blood thirsty hyper masculine
+    character to a character who chose to conceal his brutal past and tries to be
+    more emotionally sensitive to care for his child.

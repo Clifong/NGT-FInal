@@ -17,8 +17,8 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 0}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: The evolution is such that traditional American masculinity
-    + emotional sensitivity = contemporary American masculinity
+  <Text>k__BackingField: The evolution is such that contemporary American masculinity
+    combined both emotional sensitivity and traditional masculinity
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
   - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}

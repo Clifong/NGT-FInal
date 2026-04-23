@@ -1,0 +1,491 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: AmericanMasculinityR2Graph
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::DS.Data.Save.DSGraphSaveDataSO
+  <FileName>k__BackingField: AmericanMasculinityR2
+  <Groups>k__BackingField: []
+  <DialogueNodes>k__BackingField:
+  - <ID>k__BackingField: 5b1d233a-31ea-4b33-85f5-d3ee90c0aab3
+    <Name>k__BackingField: DialogueName2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: d5132a37-36f1-4e46-a971-ce07d3999670
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 936, y: 64.799995}
+    <Text>k__BackingField: The arguement sounds very strange but bear we me.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: d4ce026e-1625-41ea-9e6c-7e4dc07edb22
+    <Name>k__BackingField: DialogueName
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 5b1d233a-31ea-4b33-85f5-d3ee90c0aab3
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 220, y: 88.799995}
+    <Text>k__BackingField: The second reason is an interesting one which argue that
+      men adopt a gentler form of masculinity because it was a way for them to extract
+      the economical benefits of feminism.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: d5132a37-36f1-4e46-a971-ce07d3999670
+    <Name>k__BackingField: DialogueName3
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 75c6f65b-4588-4edc-a312-d97c9fe58fd8
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 1537.6, y: 64.799995}
+    <Text>k__BackingField: To understand this, we need to first recognise the gender
+      role of men in America
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 75c6f65b-4588-4edc-a312-d97c9fe58fd8
+    <Name>k__BackingField: DialogueName4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 1aac069a-0862-4f18-8583-f6fd7916220a
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 2289.6, y: 84}
+    <Text>k__BackingField: 'In America, there has always bee, and is still, a longstanding
+      culture that men were supposed to be the breadwinner of the family. They are
+      pressured to start working young and get a good job to raise their family.
+      In fact, non married or unemployed men were seen as immature  '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 1aac069a-0862-4f18-8583-f6fd7916220a
+    <Name>k__BackingField: DialogueName5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: df202fea-3ef1-468d-b2ba-bba2d928ca0f
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 3008, y: 84}
+    <Text>k__BackingField: But as economic pressure grows, here's where things become
+      more complex. In her book "The hearts of men" by Barabara Ehrenreich, she raised
+      an interesting point that there was an increasing number of men sick of this
+      role
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: df202fea-3ef1-468d-b2ba-bba2d928ca0f
+    <Name>k__BackingField: DialogueName6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: e9cdd9ea-f3a4-437c-a955-50c4361b25a6
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 3703.2, y: 84}
+    <Text>k__BackingField: In order to cope with rising cost, men drew themselves
+      deeper into their work, with some dying in the process. Heart failure was one
+      of the leading cause of death for white collar male Americans back then due
+      to stress.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: e9cdd9ea-f3a4-437c-a955-50c4361b25a6
+    <Name>k__BackingField: DialogueName7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 53dd66f8-07a2-4354-a124-877fc6bcf0e0
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 4444.8, y: 111.200005}
+    <Text>k__BackingField: At the same time, there was a growing wave of feminism,
+      most notably the second wave of feminism that seek to liberate women further
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 53dd66f8-07a2-4354-a124-877fc6bcf0e0
+    <Name>k__BackingField: DialogueName8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 9f50c5c0-298a-4574-9205-ba7d599bc71b
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 5168.8, y: 124.799995}
+    <Text>k__BackingField: A growing number of men felt that feminism was in a sense
+      unfiar. They believed that the money earned by men belonged to "us" (The entire
+      family) but money earned by women belonged to them only
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 9f50c5c0-298a-4574-9205-ba7d599bc71b
+    <Name>k__BackingField: DialogueName9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 79439ec6-af00-47a6-8827-69b73fd0a424
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 5856, y: 124.799995}
+    <Text>k__BackingField: 'To further capitalise on this feeling of resentment,
+      Barabara cited that this was also when institutions like Playnoy started to
+      emerge which further fan the flames of resentment by potraying bachelerote
+      as being able to "enjoy the finer things in life" '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 79439ec6-af00-47a6-8827-69b73fd0a424
+    <Name>k__BackingField: DialogueName10
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: d9a5de60-66ae-407a-af07-fc45cf4b111b
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 6576, y: 166.40001}
+    <Text>k__BackingField: Playboy, well also led to the Playboy philosophy. Other
+      than being seen as losers, a men not settling down was also perceived as being
+      a homosexual.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: d9a5de60-66ae-407a-af07-fc45cf4b111b
+    <Name>k__BackingField: DialogueName11
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: db88dc27-7ba6-4c90-8d50-7f4618a419e2
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 7280.8, y: 180}
+    <Text>k__BackingField: It argued that men who adopt the playboy philosophy where
+      they sleep around with many naked women are not gay, but rather they are too
+      busy enjoying their heterosecuality
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: db88dc27-7ba6-4c90-8d50-7f4618a419e2
+    <Name>k__BackingField: DialogueName12
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 4de2c6e8-80c5-4645-a877-d086c9cbe84b
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 7965.6, y: 180}
+    <Text>k__BackingField: In some sense, playboy became a business that sought to
+      exploit the growing insecurity of men brought about traditional social roles.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 4de2c6e8-80c5-4645-a877-d086c9cbe84b
+    <Name>k__BackingField: DialogueName13
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 15b3d14e-a55b-4dae-916b-7a93da25bbba
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 8707.2, y: 180}
+    <Text>k__BackingField: The eventual outcome was that men began to rebel at the
+      traditional role either because either growing economic pressure would drive
+      them to their death, or that certain economic institutions that sought to exploit
+      on one's own insecurity promised that they lead a much better life if they
+      avoided adhering to traditional social roles.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 15b3d14e-a55b-4dae-916b-7a93da25bbba
+    <Name>k__BackingField: DialogueName14
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: bf5b2612-f8ad-4920-973d-f28db700aa66
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 9440, y: 202.40001}
+    <Text>k__BackingField: 'Now, in order for this role to gradually change hands,
+      women needed to get a job. '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: bf5b2612-f8ad-4920-973d-f28db700aa66
+    <Name>k__BackingField: DialogueName15
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 3705404a-cc7c-4296-8f4a-a8c2dea8ca6a
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 10033.6, y: 202.40001}
+    <Text>k__BackingField: '"If I don''t want to work or I want to work less, then
+      you need to work to support us. Or as a playboy, I wanted you because you are
+      well off to support me and you already have a well paying job" '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 3705404a-cc7c-4296-8f4a-a8c2dea8ca6a
+    <Name>k__BackingField: DialogueName16
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: ec556a63-3a6a-44c6-bb57-ce0602c41707
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 10736.8, y: 228}
+    <Text>k__BackingField: And what better way for this to be realised through the
+      second wave feminism which sought to encourage more women to work as a way
+      to liberate themselves.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: ec556a63-3a6a-44c6-bb57-ce0602c41707
+    <Name>k__BackingField: DialogueName17
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 83271b25-8829-4c72-b514-81f97cd088e7
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 11459.2, y: 228}
+    <Text>k__BackingField: Some men decided to adopt a less authorative and softer
+      behaviour. They started to support such movements precisely because they wanted
+      this
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 83271b25-8829-4c72-b514-81f97cd088e7
+    <Name>k__BackingField: DialogueName18
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: c9cb79f9-95c5-46d8-afd7-25b38679c48d
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 12228.8, y: 228}
+    <Text>k__BackingField: This was one of the main critique in Barbara's book. She
+      reported that men sought women liberation in order to extrat such indirect
+      benefits of feminism
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: c9cb79f9-95c5-46d8-afd7-25b38679c48d
+    <Name>k__BackingField: DialogueName19
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 5d551bc7-94ff-4eff-b36c-a51ae973a40f
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 12925.6, y: 200.8}
+    <Text>k__BackingField: Similarly, more women working also meant more economical
+      benefits,
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 5d551bc7-94ff-4eff-b36c-a51ae973a40f
+    <Name>k__BackingField: DialogueName20
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: e5384309-e31a-4821-86fb-3ee3fe58a2ee
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 13455.2, y: 200.8}
+    <Text>k__BackingField: This is not entirely surprising as women back then are
+      confined to be homemakers to raise their family.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: e5384309-e31a-4821-86fb-3ee3fe58a2ee
+    <Name>k__BackingField: DialogueName21
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: b0ca13bf-3131-4039-af4a-8c90d35aac72
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 14156.8, y: 200.8}
+    <Text>k__BackingField: The capitalists and knew that this was considered unpaid
+      labour, so they wanted more women to join the workforce in order to contribute
+      to the growth of the economy which obviously means they earn more money
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: b0ca13bf-3131-4039-af4a-8c90d35aac72
+    <Name>k__BackingField: DialogueName22
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 14855.2, y: 200.8}
+    <Text>k__BackingField: As a result, these groups of people also pushed for the
+      feminist movement by espousing liberal values like equality and supportng a
+      less authourative form of masculinity
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  <ActionsOnlyNodes>k__BackingField: []
+  <ConditionsOnlyNodes>k__BackingField: []
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - DialogueName2
+  - DialogueName
+  - DialogueName3
+  - DialogueName4
+  - DialogueName5
+  - DialogueName6
+  - DialogueName7
+  - DialogueName8
+  - DialogueName9
+  - DialogueName10
+  - DialogueName11
+  - DialogueName12
+  - DialogueName13
+  - DialogueName14
+  - DialogueName15
+  - DialogueName16
+  - DialogueName17
+  - DialogueName18
+  - DialogueName19
+  - DialogueName20
+  - DialogueName21
+  - DialogueName22
+  <OldGroupedNodeNames>k__BackingField:
+    _saintsKeys: []
+    _wrapTypeKey: 4
+    _saintsValues: []
+    _wrapTypeValue: 4
+    saintsSerializedVersion: 2
+    _keys: []
+  references:
+    version: 2
+    RefIds: []

@@ -56,15 +56,15 @@ MonoBehaviour:
     - {fileID: 0}
     - {fileID: 0}
     BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
-  - <ID>k__BackingField: ecfd7f56-4486-461f-898d-a47d87907111
-    <Name>k__BackingField: DialogueName3
+  - <ID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
+    <Name>k__BackingField: DialogueName4
     <Choices>k__BackingField:
     - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
+      <NodeID>k__BackingField: 
     <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 1731.2, y: -595.2}
-    <Text>k__BackingField: When America was founded, physical strength was required
-      to acquire more land. Hence, such traits are admired
+    <Position>k__BackingField: {x: 2554.4, y: 52.799995}
+    <Text>k__BackingField: The evolution is such that contemporary American masculinity
+      combined both emotional sensitivity and traditional masculinity
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
     - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
@@ -75,15 +75,17 @@ MonoBehaviour:
     ChoiceSO:
     - {fileID: 0}
     BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
-  - <ID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
-    <Name>k__BackingField: DialogueName4
+  - <ID>k__BackingField: ecfd7f56-4486-461f-898d-a47d87907111
+    <Name>k__BackingField: DialogueName3
     <Choices>k__BackingField:
     - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 
+      <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
     <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 2554.4, y: 52.799995}
-    <Text>k__BackingField: The evolution is such that traditional American masculinity
-      + emotional sensitivity = contemporary American masculinity
+    <Position>k__BackingField: {x: 1731.2, y: -595.2}
+    <Text>k__BackingField: When America was founded, physical strength was required
+      to acquire more land. Hence, such traits are admired. This was further deepened
+      as throughout American history, there were quite a few wars such as the civil
+      war. Hence, such traits were held in high regards.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
     - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
@@ -100,8 +102,8 @@ MonoBehaviour:
   <OldUngroupedNodeNames>k__BackingField:
   - DialogueName
   - DialogueName2
-  - DialogueName3
   - DialogueName4
+  - DialogueName3
   <OldGroupedNodeNames>k__BackingField:
     _saintsKeys: []
     _wrapTypeKey: 4

@@ -150,7 +150,6 @@ GameObject:
   - component: {fileID: 4875227730039264542}
   - component: {fileID: 1666454041925655272}
   - component: {fileID: 3610166526567016236}
-  - component: {fileID: 19327377581431199}
   - component: {fileID: 4490090949819899916}
   m_Layer: 5
   m_Name: Dialogue canvas
@@ -281,34 +280,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LogDialogueManager
   spawnTransform: {fileID: 8631236245700286660}
   dialogueSentencePrefab: {fileID: 8310677969324965283, guid: 5e7a76713cd78a846b1c36da46d2ba47, type: 3}
---- !u!114 &19327377581431199
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 188700200334406340}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a65d6ae5c7266e4784da6fc467f435d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CrossObjectEventListener
-  gameEvent: {fileID: 11400000, guid: fa30d5cd2289830448d6e38a3645fd59, type: 2}
-  responseOnTrigger:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 3785442951810572297}
-        m_TargetAssemblyTypeName: DialogueManager, Assembly-CSharp
-        m_MethodName: ContinueDialogue
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!114 &4490090949819899916
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -348,6 +319,7 @@ GameObject:
   - component: {fileID: 3553942731978223430}
   - component: {fileID: 8144604592961956044}
   - component: {fileID: 1103878500900766614}
+  - component: {fileID: 8701451190675523088}
   m_Layer: 5
   m_Name: Choice panel
   m_TagString: Untagged
@@ -395,7 +367,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.6666667}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -412,6 +384,32 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &8701451190675523088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430073793770997451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.VerticalLayoutGroup
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 4
+  m_Spacing: 100
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 0
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
 --- !u!1 &3114722625139130202
 GameObject:
   m_ObjectHideFlags: 0
@@ -664,7 +662,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7661583439622565958}
   m_HandleRect: {fileID: 8464853216381660474}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -706,8 +704,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -28.278}
+  m_SizeDelta: {x: 0, y: -56.557}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3883292213479252551
 CanvasRenderer:
@@ -941,7 +939,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -28.831}
+  m_AnchoredPosition: {x: 0, y: -28.831055}
   m_SizeDelta: {x: 0, y: -57.662}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8323962574082411681
@@ -1179,7 +1177,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 951.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0.000061035156}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1747685885157836408
@@ -1257,7 +1255,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 30.7733, y: -28.2783}
+  m_AnchoredPosition: {x: 30.773438, y: -28.27832}
   m_SizeDelta: {x: 61.5465, y: 56.5565}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8276595900151186178
@@ -1745,7 +1743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.64705884}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.6666667}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: AboutChinaMasculinity
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueContainerSO
+  <FileName>k__BackingField: AboutChinaMasculinity
+  <Groups>k__BackingField:
+    _saintsKeys: []
+    _wrapTypeKey: 4
+    _saintsValues: []
+    _wrapTypeValue: 4
+    saintsSerializedVersion: 2
+    _keys: []
+  <UngroupedNodes>k__BackingField:
+  - {fileID: 11400000, guid: d6f45dd20143b29489b20fc0ed9da82e, type: 2}
+  - {fileID: 11400000, guid: e706825ad8789a44b86a12d15dc273b6, type: 2}
+  - {fileID: 11400000, guid: d0d88931ddbc7554d8866b0d5989165c, type: 2}
+  - {fileID: 11400000, guid: b5a362d536296604bbc5f760724e7731, type: 2}
+  <StartingNodes>k__BackingField:
+  - {fileID: 11400000, guid: d0d88931ddbc7554d8866b0d5989165c, type: 2}
+  references:
+    version: 2
+    RefIds: []

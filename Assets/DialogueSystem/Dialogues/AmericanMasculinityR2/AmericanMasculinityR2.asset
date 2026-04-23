@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaa76378291a144d849f29230be0a5a, type: 3}
+  m_Name: AmericanMasculinityR2
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueContainerSO
+  <FileName>k__BackingField: AmericanMasculinityR2
+  <Groups>k__BackingField:
+    _saintsKeys: []
+    _wrapTypeKey: 4
+    _saintsValues: []
+    _wrapTypeValue: 4
+    saintsSerializedVersion: 2
+    _keys: []
+  <UngroupedNodes>k__BackingField:
+  - {fileID: 11400000, guid: c568d7378da653445b7c42f6a1bc82d3, type: 2}
+  - {fileID: 11400000, guid: e37717cc17ecff647bf39670737382db, type: 2}
+  - {fileID: 11400000, guid: 15863c4fcc910e64593b989e30778b21, type: 2}
+  - {fileID: 11400000, guid: 22a08350ad1effa42a8e58a1dde10746, type: 2}
+  - {fileID: 11400000, guid: a6d4dff626c9cd34fa5b638de06e14a5, type: 2}
+  - {fileID: 11400000, guid: bf0de2ec3c2d875468db5ff7b4e3e63c, type: 2}
+  - {fileID: 11400000, guid: fc02ba533785f364f947b96aa7c1ef10, type: 2}
+  - {fileID: 11400000, guid: ce220d8d7c477944ba8f54f6628fa02e, type: 2}
+  - {fileID: 11400000, guid: 3ff6a3ceeff261d4fba4377699cd803a, type: 2}
+  - {fileID: 11400000, guid: 151d4ce18d947244cab2a07ad4c723e7, type: 2}
+  - {fileID: 11400000, guid: c1386c6c022bf464cbf95e3525eb391e, type: 2}
+  - {fileID: 11400000, guid: 45fe0489fc5c4f74daf3689e5faa078e, type: 2}
+  - {fileID: 11400000, guid: fb216b9038d1e044999a9a8712b9671c, type: 2}
+  - {fileID: 11400000, guid: 43202e4c17c5bef4d93f52f56e471a06, type: 2}
+  - {fileID: 11400000, guid: 3a962a8a4ad0d4740ac19fe5c3db9d22, type: 2}
+  - {fileID: 11400000, guid: 0fdc39e15186c93408152ce29ae9469f, type: 2}
+  - {fileID: 11400000, guid: e947ba2997f19df49a69941e77cffc7a, type: 2}
+  - {fileID: 11400000, guid: eb3de1967e7d8da43be5b5ff8e043cb2, type: 2}
+  - {fileID: 11400000, guid: 3983754d7c5613b4caec9cb5d6ae2b88, type: 2}
+  - {fileID: 11400000, guid: 4e12083beba242044867a1a0d29f91ba, type: 2}
+  - {fileID: 11400000, guid: b1a35e323c54f914490453aa5ba4918b, type: 2}
+  - {fileID: 11400000, guid: b2462071542bcf5478e143dfe05709ef, type: 2}
+  <StartingNodes>k__BackingField:
+  - {fileID: 11400000, guid: e37717cc17ecff647bf39670737382db, type: 2}
+  references:
+    version: 2
+    RefIds: []

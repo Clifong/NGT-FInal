@@ -11,6 +11,8 @@ namespace DS.ScriptableObjects
         [field: SerializeField] public RememberDialogueChoicesSO RememberChoiceDataSO { get; set; }
         [field: SerializeField] public List<ChoiceSO> ChoicesSO { get; set; } 
         [field: SerializeField] public Sprite BackgroundImage { get; set; }
+        private bool isChoiceNodeAndClickNext = false;
+        
         
         public void Initialize(
             string dialogueName,
@@ -72,14 +74,21 @@ namespace DS.ScriptableObjects
 
         public override void ContinueDialogue(DialogueObject dialogueObject, DialogueManager dialogueManager)
         {
+            if (isChoiceNodeAndClickNext)
+            {
+                dialogueObject.SetWaitForPlayer(true);
+                dialogueManager.DisplayChoicePanel();
+                DisplayChoices(dialogueManager);
+                isChoiceNodeAndClickNext = false;
+                return;
+            }
+            
             dialogueObject.SetCurrentText(Text);
             DisplayDialogue(dialogueManager);
             
             if (IsChoiceNode)
             {
-                dialogueObject.SetWaitForPlayer(true);
-                dialogueManager.DisplayChoicePanel();
-                DisplayChoices(dialogueManager);
+                isChoiceNodeAndClickNext = true;
                 return;
             }
             
