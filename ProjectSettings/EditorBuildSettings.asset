@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Non dialogue/TitleScreen.unity
+    guid: 273cc7b39f05b0e418be7b431928341e
+  - enabled: 1
     path: Assets/Scenes/Non dialogue/AmericanReasons.unity
     guid: f0375af35df17c141b65a0a578022d0f
   - enabled: 1
@@ -21,14 +24,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Reasons China/Reason2ForCM.unity
     guid: 3e92cdf5d61bf2b4caed7aa38ae406a6
   - enabled: 1
+    path: Assets/Scenes/Non dialogue/AmericanGamesEvidence.unity
+    guid: 0f12754931278b24a8aade222af75df5
+  - enabled: 1
+    path: Assets/Scenes/Non dialogue/ChinaGamesEvidene.unity
+    guid: e6345ea0342d4854f84b4bf96b0f445d
+  - enabled: 1
     path: Assets/Scenes/American reasons/ReasonOneForAM.unity
     guid: 485c0805cab642b4fa1e152083894cac
   - enabled: 1
     path: Assets/Scenes/Reasons China/ReasonOneForCM.unity
     guid: 8836333ef662c6e4a90455b2de8af0c0
   - enabled: 1
+    path: Assets/Scenes/Non dialogue/Goodbye.unity
+    guid: 333f0f189a6fed94e985bc45fb913c15
+  - enabled: 1
     path: Assets/Scenes/Non dialogue/Start.unity
     guid: 1639c2dd95a1ef14d91de78f23e089a6
+  - enabled: 1
+    path: Assets/Scenes/Non dialogue/Ending.unity
+    guid: 190cb8bba8d6aec478446f534809e400
   - enabled: 1
     path: Assets/Scenes/Intro masculinity/AmericanContemporaryMasculinity.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
