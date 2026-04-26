@@ -1058,17 +1058,17 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "This is a marketing research to understand about male characters in American
-    and China games\n\nAmerica and China are one of the biggest markets of gaming.
+    and China games\r\n\r\nAmerica and China are one of the biggest markets of gaming.
     We would like to analyse how male characters in the games developed by the both
     of them have involved overtime. In America, modern male characters tend to possess
     traits of traditional American masculinity, such as being physically imposing
-    and stoic. However, recently, they also show more signs of emotional sensitivity.
-    Similarly, modern male characters in China possess a more effiminate and softer
-    look. To understand this, we look at how contemporary masculinity in these countries
-    are like. \n\nWe look at how capitalism shaped contemporary masculinity in both
-    countries. Out of the many factors, we chose this because of how integrated capitalism
-    is in our lives and how it has played a significant role in shaping mankind's
-    taste and preference"
+    and stoic. However, recently, they have also shown more signs of emotional sensitivity.
+    Similarly, modern male characters in China possess a more effeminate and softer
+    look. To understand this, we look at what contemporary masculinity in these countries
+    is like. \r\n\r\nWe also look at how capitalism shaped contemporary masculinity
+    in both countries. Out of the many factors, we chose this because of how integrated
+    capitalism is in our lives throughout history and how it has played a significant
+    role in shaping mankind's taste and preferences\r\n\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

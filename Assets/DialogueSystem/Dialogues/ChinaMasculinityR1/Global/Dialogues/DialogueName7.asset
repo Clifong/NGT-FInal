@@ -17,13 +17,15 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 49f0f19ebf22b174d87de444efcdcf58, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: According to research, the rise in income amongst Chinese
-    men for instance has led to increased focus on grooming. In particular, Chinese
-    men between the age of 18 and 26 have became the main driving force of the male
-    beauty market
+  <Text>k__BackingField: 'According to research, the rise in income amongst Chinese
+    men, for instance, has led to increased focus on grooming. In particular, Chinese
+    men between the ages of 18 and 26 have become the main driving force of the male
+    beauty market.
+
+'
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

@@ -17,11 +17,11 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 446d059b045d86443acb592bcc388390, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: 'Additionally, wealthier and priviledge men tends to have
-    more freedom to choose what kind of masculinity they choose to potray. '
+  <Text>k__BackingField: 'Additionally, wealthier and privileged men tend to have
+    more freedom to choose what kind of masculinity they choose to portray. '
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

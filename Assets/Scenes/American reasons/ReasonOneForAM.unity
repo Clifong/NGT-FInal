@@ -131,27 +131,38 @@ PrefabInstance:
       propertyPath: m_text
       value: '- Americans become wealthier = more enrollment in college/universities
 
+        
 
         -
-        These institution are more liberal in nature => Men who go there eventually
+        These institutions are more liberal in nature => Men who go there eventually
         adopt liberal values of masculinity (i.e More gentler kind of masculinity)
 
+        
 
         -
-        Wealth and liberal values have some correlation-> Wealtier Americans tend
+        Wealth and liberal values have some correlation-> Wealthier Americans tend
         to have liberal values
 
+        
 
-        - Fraternities in universities/college are
-        a way to move up social ladder
+        - Fraternities in universities/colleges
+        are a way to move up the social ladder
 
+        
 
-        - Men who join fraternities adopt
-        similar liberal valus in order to join
+        - Men who join
+        fraternities adopt similar liberal values to join
 
+        
 
-        - Greater normalisation
-        of softer masculinity'
+        -
+        Greater normalisation of softer masculinity
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4814376519525123592, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: newLevel
+      value: AmericanReasons
       objectReference: {fileID: 0}
     - target: {fileID: 6358050448294613498, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_AnchoredPosition.y

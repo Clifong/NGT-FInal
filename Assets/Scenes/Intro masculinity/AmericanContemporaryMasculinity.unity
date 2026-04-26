@@ -158,38 +158,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_AllowHDROutput: 1
-  m_UseScreenCoordOverride: 0
-  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_TaaSettings:
-    m_Quality: 3
-    m_FrameInfluence: 0.1
-    m_JitterScale: 1
-    m_MipBias: 0
-    m_VarianceClampScale: 0.9
-    m_ContrastAdaptiveSharpening: 0
-  m_Version: 2
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -285,46 +253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_ComponentVersion: 2
-  m_LightType: 4
-  m_BlendStyleIndex: 0
-  m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
-  m_LightVolumeIntensity: 1
-  m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 00000000
-  m_LightCookieSprite: {fileID: 0}
-  m_DeprecatedPointLightCookieSprite: {fileID: 0}
-  m_LightOrder: 0
-  m_AlphaBlendOnOverlap: 0
-  m_OverlapOperation: 0
-  m_NormalMapDistance: 3
-  m_NormalMapQuality: 2
-  m_UseNormalMap: 0
-  m_ShadowsEnabled: 0
-  m_ShadowIntensity: 0.75
-  m_ShadowSoftness: 0
-  m_ShadowSoftnessFalloffIntensity: 0.5
-  m_ShadowVolumeIntensityEnabled: 0
-  m_ShadowVolumeIntensity: 0.75
-  m_LocalBounds:
-    m_Center: {x: 0, y: -0.00000011920929, z: 0}
-    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
-  m_PointLightInnerAngle: 360
-  m_PointLightOuterAngle: 360
-  m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1
-  m_ShapeLightParametricSides: 5
-  m_ShapeLightParametricAngleOffset: 0
-  m_ShapeLightParametricRadius: 1
-  m_ShapeLightFalloffSize: 0.5
-  m_ShapeLightFalloffOffset: {x: 0, y: 0}
-  m_ShapePath:
-  - {x: -0.5, y: -0.5, z: 0}
-  - {x: 0.5, y: -0.5, z: 0}
-  - {x: 0.5, y: 0.5, z: 0}
-  - {x: -0.5, y: 0.5, z: 0}
 --- !u!4 &619394802
 Transform:
   m_ObjectHideFlags: 0
@@ -427,12 +355,20 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3737096842509686820, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -4.188965
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737096842509686820, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -56.051025
+      objectReference: {fileID: 0}
     - target: {fileID: 4463356034583026845, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_text
       value: " - Contemporary American masculinity = traditional American masculinity
-        + emotional sensitivity \n\n- Traditional American masculinity = Strength
-        + stoicism\n\n- These traditional traits are good because:\n(1) Useful durng
-        land acquisition when America is first founded\n(2) Wars"
+        + emotional sensitivity \r\n\r\n- Traditional American masculinity = Strength
+        + stoicism\r\n\r\n- These traditional traits are good because:\r\n(1) Useful
+        during land acquisition when America was first founded\r\n(2) Wars\r"
       objectReference: {fileID: 0}
     - target: {fileID: 6358050448294613498, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -529,6 +465,10 @@ PrefabInstance:
     - target: {fileID: 8227717129379836114, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_Name
       value: Summary canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8640984268107251713, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -659,6 +599,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2348154135416082679, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 114.46045
+      objectReference: {fileID: 0}
+    - target: {fileID: 2438518770547319456, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -24.96997
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553942731978223430, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -3.8305664
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553942731978223430, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -3.8305664
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797724019381721095, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_ChildForceExpandWidth
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4640718860825562949, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1.7705078
+      objectReference: {fileID: 0}
+    - target: {fileID: 7517181792891560632, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 166.91943
+      objectReference: {fileID: 0}
+    - target: {fileID: 7517181792891560632, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -56.68994
+      objectReference: {fileID: 0}
     - target: {fileID: 8464853216381660474, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -675,6 +647,18 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8689694709784552931, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.4301758
+      objectReference: {fileID: 0}
+    - target: {fileID: 8689694709784552931, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -52.30957
+      objectReference: {fileID: 0}
+    - target: {fileID: 8732243318014453492, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dcc67bbbd2fd91c4dbd05d52119f5c0d, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

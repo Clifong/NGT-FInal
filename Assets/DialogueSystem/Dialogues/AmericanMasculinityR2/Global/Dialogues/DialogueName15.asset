@@ -17,12 +17,13 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 0fdc39e15186c93408152ce29ae9469f, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: '"If I don''t want to work or I want to work less, then
-    you need to work to support us. Or as a playboy, I wanted you because you are
-    well off to support me and you already have a well paying job" '
+  <Text>k__BackingField: "The logic was: \"If I don't want to work or I want to work
+    less, then I need a woman to work to support us\u201D. And for a Playboy: \u201C
+    I wanted you because you are well off to support me, or because you are going
+    to get a well-paying job\"."
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

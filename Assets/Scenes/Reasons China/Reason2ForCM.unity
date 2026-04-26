@@ -129,11 +129,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4463356034583026845, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_text
-      value: "- Higher cost of living = More women needed to work\n\n- More women
-        work = more men need to be more nurturing and emotionally sensitive\n\n-
-        More women work = Greater power in relationship \n\n- More power in relationship
-        = more women demand for men to be less authourative and empathetic\n\n- Appeal
-        for softer masculinity also grows"
+      value: "- Higher cost of living = More women needed to work\r\n\r\n- More women
+        work = more men need to be more nurturing and emotionally sensitive to take
+        care of children\r\n\r\n- More women work = Greater power in relationship
+        \r\n\r\n- More power in a relationship = more women demand that men be less
+        authoritative and empathetic\r\n\r\n- More women also like softer traits
+        like being a good listener -> Companies make money by appealing to this (E.g
+        music companies)\r\n\r\n- Appeal for softer masculinity also grows from such
+        influence\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4814376519525123592, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: newLevel
+      value: ChinaReasons
       objectReference: {fileID: 0}
     - target: {fileID: 6358050448294613498, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_AnchoredPosition.y

@@ -18,12 +18,12 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: bf0de2ec3c2d875468db5ff7b4e3e63c, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: But as economic pressure grows, here's where things become
-    more complex. In her book "The hearts of men" by Barabara Ehrenreich, she raised
-    an interesting point that there was an increasing number of men sick of this
-    role
+    more complex. In her book "The Hearts of Men" by Barbara Ehrenreich, she raised
+    an interesting point that there was an increasing number of men walking out of
+    this traditional role of being a breadwinner.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

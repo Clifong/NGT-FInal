@@ -17,12 +17,12 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 88cd90531d5be7843b977d5756c90ce4, type: 2}
   <IsStartingDialogue>k__BackingField: 1
-  <Text>k__BackingField: Another reason for the adoption of a more gentler kind of
+  <Text>k__BackingField: Another reason for the adoption of a more gentle kind of
     masculinity in China's contemporary masculinity is also due to men having to
-    taken on the nurturer's role
+    take on the nurturer's role.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

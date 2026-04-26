@@ -18,11 +18,11 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 492c1a1677f13844c9845f7e8a86ec76, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: Due to the rising cost of living, there is a greater need
-    for dual income household. As a result, fathers are increasing adopt a less authoritarian
-    role and be more gentler
+    for dual-income households. As a result, fathers are increasing adopt a less
+    authoritarian role and being more gentle.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using Unity.UIElements;
 using UnityEngine.UI;
 
 public class ExampleManager : MonoBehaviour

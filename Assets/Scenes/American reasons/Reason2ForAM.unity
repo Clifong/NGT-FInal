@@ -458,37 +458,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4463356034583026845, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_text
-      value: '- Growing cost of living = more pressure on men to work
-
-
-        -
-        Greater pressure -> some men wants to escape the role of breadwinner
-
-
-        -
-        Feminism also make it such that men will lose out -> Growing resentment of
-        traditional roles
-
-
-        - At the same time, institutions like playboy
-        emerge -> Encourage men to adopt playboy attitudes (e.g sleeping around)
-        and have women provide for them
-
-
-        - Hence men wants women to work
-        -> Support feminism movement and adopt gentler forms of masculinity
-
-
-        -
-        For capitalists, women not working = unpaid about
-
-
-        = More women
-        working = more $ + economy grow
-
-
-        - Capitalists push for feminism
-        and attempts to normalise softer masculinity '
+      value: "- Growing cost of living = more pressure on men to work\r\n\r\n- Greater
+        pressure -> some men want to escape the role of breadwinner\r\n\r\n- At the
+        same time, institutions like Playboy emerge -> Encourage men to adopt playboy
+        attitudes (e.g., sleeping around) and have women provide for them\r\n\r\n-
+        Hence, men wants women to work -> Support feminism movement and adopt gentler
+        forms of masculinity to achieve this\r\n\r\n- For capitalists, women not
+        working = unpaid about\r\n\r\n= More women working = more $ + economy grow\r\n\r\n-
+        Capitalists push for feminism and attempt to normalise softer masculinity
+        \r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4814376519525123592, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: newLevel
+      value: AmericanReasons
       objectReference: {fileID: 0}
     - target: {fileID: 6358050448294613498, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_AnchoredPosition.y

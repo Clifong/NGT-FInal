@@ -17,13 +17,13 @@ MonoBehaviour:
   - <Text>k__BackingField: Continue...
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: e706825ad8789a44b86a12d15dc273b6, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: State engineered masculinity refers to masculinity that
+  <Text>k__BackingField: State-engineered masculinity refers to masculinity that
     aligns with China's nationalistic values and interests. It seeks to emphasise
-    China's economical and cultural prowess by having men possess both the traits
-    of the traditional Confuscian junzi and demonstrating patriotism
+    China's economic and cultural prowess by having men possess both the traits of
+    the traditional Confucian junzi and demonstrating patriotism.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

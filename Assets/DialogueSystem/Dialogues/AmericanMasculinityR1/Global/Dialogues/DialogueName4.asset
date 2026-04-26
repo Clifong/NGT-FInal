@@ -18,12 +18,12 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 2e9873d2d286d444aa717562d8843083, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: As a result, men who enter college or universities tend
-    to adopt more liberal values over time. One such values would be the concept
-    of hybrid masculinity which encourages more emotional vulnerability and softness
-    amongst men
+    to adopt more liberal values over time. One such value would be the concept of
+    hybrid masculinity, which encourages more emotional vulnerability and softness
+    amongst men.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

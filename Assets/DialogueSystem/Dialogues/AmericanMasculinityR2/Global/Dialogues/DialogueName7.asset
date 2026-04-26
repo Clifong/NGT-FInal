@@ -15,13 +15,13 @@ MonoBehaviour:
   <NodeName>k__BackingField: DialogueName7
   <Choices>k__BackingField:
   - <Text>k__BackingField: New Choice
-    <NextDialogue>k__BackingField: {fileID: 11400000, guid: ce220d8d7c477944ba8f54f6628fa02e, type: 2}
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 3ff6a3ceeff261d4fba4377699cd803a, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: At the same time, there was a growing wave of feminism,
-    most notably the second wave of feminism that seek to liberate women further
+  <Text>k__BackingField: The growing economic pressure drove men to become increasingly
+    resentful of the traditional role thrusted on them.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

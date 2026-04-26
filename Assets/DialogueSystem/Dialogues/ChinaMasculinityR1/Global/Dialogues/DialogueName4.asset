@@ -15,15 +15,15 @@ MonoBehaviour:
   <NodeName>k__BackingField: DialogueName4
   <Choices>k__BackingField:
   - <Text>k__BackingField: New Choice
-    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 6cd92f8bb490c594a82551b2a1bf096f, type: 2}
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 297bb67e5a75ff94b8ea022544afffda, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: In the context of South Korea, the case of "Seoul syndrome"
-    recently amongst China's youth where they suffer intense nostalgia and homesickness
-    for South Korea has been noted to deepen the China's youth fascination for South
-    Korean culture, especially idol culture.
+  <Text>k__BackingField: "In the context of South Korea, the case of \"Seoul syndrome\"
+    has recently been noted amongst China's youth, where they suffer intense nostalgia
+    and homesickness for South Korea, which has been noted to deepen China's youth
+    fascination for South Korean culture, especially that country\u2019s culture."
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

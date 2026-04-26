@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: MMORPG games
   m_EditorClassIdentifier: Assembly-CSharp::IconsSO
   iconImage: {fileID: 4444992000917314749, guid: 3a0476cf478586448ad5447f9e26a32a, type: 3}
-  description: MMORPG games are extremely popular in China Most MMORPG games are
+  description: MMORPG games are extremely popular in China. Most MMORPG games are
     of the Xianxia genre. Male characters in Xianxia games tend to have an androgynous
-    look, with fair slender complexions and slender bodies.
+    look, with fair, slender complexions and slender bodies.

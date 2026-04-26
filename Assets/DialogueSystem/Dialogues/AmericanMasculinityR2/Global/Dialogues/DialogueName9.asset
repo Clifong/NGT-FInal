@@ -17,13 +17,14 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 151d4ce18d947244cab2a07ad4c723e7, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: 'To further capitalise on this feeling of resentment, Barabara
-    cited that this was also when institutions like Playnoy started to emerge which
-    further fan the flames of resentment by potraying bachelerote as being able to
-    "enjoy the finer things in life" '
+  <Text>k__BackingField: 'To further capitalise on this feeling of resentment, Barbara
+    cited that this was also the time when institutions like Playboy started to emerge
+    to cater to this growing audience of dissatisfied men, which further fanned the
+    flames of resentment by portraying bachelorhood as being able to "enjoy the finer
+    things in life". '
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

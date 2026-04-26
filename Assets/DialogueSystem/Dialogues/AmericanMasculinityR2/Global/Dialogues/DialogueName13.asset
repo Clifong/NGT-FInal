@@ -17,14 +17,14 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 43202e4c17c5bef4d93f52f56e471a06, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: The eventual outcome was that men began to rebel at the
-    traditional role either because either growing economic pressure would drive
-    them to their death, or that certain economic institutions that sought to exploit
-    on one's own insecurity promised that they lead a much better life if they avoided
-    adhering to traditional social roles.
+  <Text>k__BackingField: The eventual outcome was that men began to rebel against
+    the traditional role, either because they realised that growing economic pressure
+    would drive them to their death, or because certain institutions began appearing
+    in the market to exploit their own insecurity and promised that they would lead
+    a much better life if they avoided adhering to traditional social roles.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

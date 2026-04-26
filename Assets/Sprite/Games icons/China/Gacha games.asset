@@ -13,10 +13,11 @@ MonoBehaviour:
   m_Name: Gacha games
   m_EditorClassIdentifier: Assembly-CSharp::IconsSO
   iconImage: {fileID: 21300000, guid: d19a97640e6f558409a84f34f5bf4a4f, type: 3}
-  description: "Gacha games are typically free to play games that have a gachapon
-    mechanis. Gachpon are a type of vending machine that randomly spits out a prize
-    after putting money into it. \n\nThere are many gacha games in the china market
-    at the moment. The most famous of which are games from Mihoyo (Genshin Impct,
-    Honkai Star Rail), Hypergryph (Arknights), Kuro games (Wuthering Waves) and Paperfold
-    games (Infinity Nikke, Loveand deadspace). In most of these games, male characters
-    tend to be potrayed as thin, effeminate looking characters. "
+  description: "Gacha games are typically free-to-play games that have a gachapon
+    mechanism. Gachapon are a type of vending machine that randomly spits out a prize
+    after putting money into it. Gacha games are extremely popular in China.\r\n\r\nThere
+    are many gacha games in the Chinese market at the moment. The most famous of
+    which are games from Mihoyo (Genshin Impact, Honkai Star Rail), Hypergryph (Arknights),
+    Kuro games (Wuthering Waves) and Paperfold games (Infinity Nikke, Love and Deep
+    Space). In most of these games, male characters tend to be portrayed as slender,
+    effeminate looking characters. \r\n"

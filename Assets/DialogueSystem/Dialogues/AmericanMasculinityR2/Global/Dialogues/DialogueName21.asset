@@ -17,12 +17,14 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: b2462071542bcf5478e143dfe05709ef, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: The capitalists and knew that this was considered unpaid
-    labour, so they wanted more women to join the workforce in order to contribute
-    to the growth of the economy which obviously means they earn more money
+  <Text>k__BackingField: The capitalists knew that this was considered unpaid labour,
+    so they wanted more women to join the workforce to contribute to the economy,
+    which obviously means they earn more money. At the same time, having women working
+    meant they can have their own income to spend more on goods and services, thereby
+    adding more people to the customer base.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

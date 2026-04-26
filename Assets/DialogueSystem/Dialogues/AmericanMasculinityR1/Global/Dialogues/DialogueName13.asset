@@ -21,10 +21,10 @@ MonoBehaviour:
     universities and colleges for male students. Many wealthy and powerful students
     tend to be in fraternities. According to Berkley, "80 percent of Fortune 500
     executives, 76 percent of U.S. senators and congressmen, 85 percent of Supreme
-    Court justices, and all but two presidents since 1825 have been fraternity men"
+    Court justices, and all but two presidents since 1825 have been fraternity men".
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

@@ -18,11 +18,12 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 1fbea4a6650882d49bd1a849d2c602f8, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: There is a general correlation between wealth and political
-    values. Research show that the wealthy tend to support democratic more and lean
-    towards liberal values
+    values. Research shows that the wealthy tend to support democracy more and lean
+    towards liberal values. In fact, most democratic supporters in America live in
+    wealthier states like California and New York.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

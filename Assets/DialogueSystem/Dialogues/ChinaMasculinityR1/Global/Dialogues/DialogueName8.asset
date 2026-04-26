@@ -18,12 +18,12 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 8f48be8d3934aa24e8c0e14bb192853b, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: Other than growing income leading to more Chinese men focusing
-    on grooming and hygiene, another factor that leads to this consequence and also
-    indirectly tied to capitalism is again the popularity of South Korean idol  imported
+    on grooming and hygiene, another factor that leads to this consequence and is
+    also indirectly tied to capitalism is the popularity of South Korean idols imported
     into China by global capitalism.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

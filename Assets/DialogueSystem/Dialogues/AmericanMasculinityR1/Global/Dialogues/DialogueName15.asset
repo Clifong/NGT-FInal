@@ -17,14 +17,14 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 0}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: As we established earlier that wealthier americans tend
-    to display hybrid masculinity, men who seek to increase their social standing
-    regardless of their wealth would therefore need to share such beliefs as well,
-    thereby normalizing this form of masculinity in university and also explains
-    why more college educated men would then adop it
+  <Text>k__BackingField: As we established earlier, wealthier Americans tend to display
+    hybrid masculinity. Men who seek to increase their social standing regardless
+    of their wealth would therefore need to share such beliefs as well, thereby normalising
+    this form of masculinity in university, and also explains why more college-educated
+    men would then adopt it.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

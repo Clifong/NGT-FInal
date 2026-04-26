@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: AC
   m_EditorClassIdentifier: Assembly-CSharp::IconsSO
   iconImage: {fileID: 21300000, guid: ee230e30dcbb72f488fa4cb60b250095, type: 3}
-  description: The Assassin Creed franchise is a action adventure game about a struggle
-    between 2 factions and the story revolves around the protagonist trapped in this
-    conflict. There are quite a few installments, but some noted that the game is
-    increasing focusing on representation at the expense of the story. In particular,
-    many cited that the male characters across new installments are written to be
-    more emotional.
+  description: The Assassin's Creed franchise is an action-adventure game about a
+    struggle between 2 factions, and the story revolves around the protagonist trapped
+    in this conflict. There are quite a few instalments, but some noted that the
+    game is increasingly focusing on representation at the expense of the story.
+    In particular, many cited that the male characters across new instalments are
+    written to be more emotional.

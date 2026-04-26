@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 97dbcf3c2e2539d489c7150e0fe63bd8
+guid: 042a111696a864549ae6a2be7ac704b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6800915032177342135
-    second: Nasti_0
+      213: 6584716134473236321
+    second: Yu_0
   - first:
-      213: -2084632836983446156
-    second: Nasti_1
+      213: 4200207846500612243
+    second: Yu_1
   - first:
-      213: 5884751118703262525
-    second: Nasti_2
+      213: 7632641026224160370
+    second: Yu_2
   - first:
-      213: 1919972209570544923
-    second: Nasti_3
+      213: 2695156961103095060
+    second: Yu_3
   - first:
-      213: 4735887438963319300
-    second: Nasti_4
+      213: 6234924694616694262
+    second: Yu_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nasti_0
+      name: Yu_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 859
-        height: 1455
+        y: 1
+        width: 1072
+        height: 1344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,41 +127,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b67b806034b16e50800000000000000
-      internalID: 6800915032177342135
+      spriteID: 16f7f0edf6c916b50800000000000000
+      internalID: 6584716134473236321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nasti_1
+      name: Yu_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 0
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 475ac78ca75e113e0800000000000000
-      internalID: -2084632836983446156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nasti_2
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 0
-        width: 7
+        x: 0
+        y: 1076
+        width: 164
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -171,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3bf3e5b6f5daa150800000000000000
-      internalID: 5884751118703262525
+      spriteID: 3983a7168c22a4a30800000000000000
+      internalID: 4200207846500612243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nasti_3
+      name: Yu_2
       rect:
         serializedVersion: 2
-        x: 279
-        y: 0
-        width: 7
-        height: 11
+        x: 0
+        y: 1068
+        width: 164
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1df21a5d8c15aa10800000000000000
-      internalID: 1919972209570544923
+      spriteID: 27ef92ae2969ce960800000000000000
+      internalID: 7632641026224160370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nasti_4
+      name: Yu_3
       rect:
         serializedVersion: 2
-        x: 819
-        y: 0
+        x: 2
+        y: 228
         width: 7
-        height: 16
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +193,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 402a4afa88049b140800000000000000
-      internalID: 4735887438963319300
+      spriteID: 415a8700afe176520800000000000000
+      internalID: 2695156961103095060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd50f7c9f6e68650800000000000000
+      internalID: 6234924694616694262
       vertices: []
       indices: 
       edges: []
@@ -235,11 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nasti_0: 6800915032177342135
-      Nasti_1: -2084632836983446156
-      Nasti_2: 5884751118703262525
-      Nasti_3: 1919972209570544923
-      Nasti_4: 4735887438963319300
+      Yu_0: 6584716134473236321
+      Yu_1: 4200207846500612243
+      Yu_2: 7632641026224160370
+      Yu_3: 2695156961103095060
+      Yu_4: 6234924694616694262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

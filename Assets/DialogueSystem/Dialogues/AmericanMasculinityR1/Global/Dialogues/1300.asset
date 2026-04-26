@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e59e3c8b9abe4a499a36e8c9fd4e36e2, type: 3}
+  m_Name: 1300
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueMultipleChoiceSO
+  <NodeName>k__BackingField: 1300
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: New Choice
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: c1c804173146a1a4088eac4cc33812f4, type: 2}
+  <IsStartingDialogue>k__BackingField: 0
+  <Text>k__BackingField: Possible, but I was thinking more towards fraernities
+  <Actions>k__BackingField: []
+  <LeftSprites>k__BackingField:
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
+  <RightSprites>k__BackingField: []
+  <IsChoiceNode>k__BackingField: 0
+  <IsRememberChoiceNode>k__BackingField: 0
+  <RememberChoiceDataSO>k__BackingField: {fileID: 0}
+  <ChoicesSO>k__BackingField:
+  - {fileID: 0}
+  <BackgroundImage>k__BackingField: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}

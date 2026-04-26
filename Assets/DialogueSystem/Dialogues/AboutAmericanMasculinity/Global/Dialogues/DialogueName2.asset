@@ -19,11 +19,13 @@ MonoBehaviour:
   - <Text>k__BackingField: Continue...
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 3ef529928448c2a4fb951abc3d0e3300, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: Traditional American masculinity emphasises on physical
-    strength, stoicism and independence.
+  <Text>k__BackingField: 'Traditional American masculinity emphasises physical strength,
+    stoicism and independence.
+
+'
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 1
   <IsRememberChoiceNode>k__BackingField: 0

@@ -22,52 +22,13 @@ MonoBehaviour:
       <NodeID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 179.2, y: 64}
-    <Text>k__BackingField: Contemporary American masculinity, also called hybrid
-      American masculinity, is the an evolution of traditional masculinity.
+    <Text>k__BackingField: 'Contemporary American masculinity, also called hybrid
+      American masculinity, is an evolution of traditional masculinity.
+
+'
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
-  - <ID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
-    <Name>k__BackingField: DialogueName2
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: How did traditional masculinity come about?
-      <NodeID>k__BackingField: ecfd7f56-4486-461f-898d-a47d87907111
-    - <Text>k__BackingField: Continue...
-      <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 977.6, y: 53.6}
-    <Text>k__BackingField: Traditional American masculinity emphasises on physical
-      strength, stoicism and independence.
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 1
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    - {fileID: 0}
-    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
-  - <ID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
-    <Name>k__BackingField: DialogueName4
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 2554.4, y: 52.799995}
-    <Text>k__BackingField: The evolution is such that contemporary American masculinity
-      combined both emotional sensitivity and traditional masculinity
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -84,11 +45,54 @@ MonoBehaviour:
     <Position>k__BackingField: {x: 1731.2, y: -595.2}
     <Text>k__BackingField: When America was founded, physical strength was required
       to acquire more land. Hence, such traits are admired. This was further deepened
-      as throughout American history, there were quite a few wars such as the civil
-      war. Hence, such traits were held in high regards.
+      as throughout American history, there were quite a few wars, such as the Civil
+      War. Hence, such traits were held in high regard.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
+    <Name>k__BackingField: DialogueName2
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: How did traditional masculinity come about?
+      <NodeID>k__BackingField: ecfd7f56-4486-461f-898d-a47d87907111
+    - <Text>k__BackingField: Continue...
+      <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 977.6, y: 53.6}
+    <Text>k__BackingField: 'Traditional American masculinity emphasises physical
+      strength, stoicism and independence.
+
+'
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 1
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    - {fileID: 0}
+    BackgroundImage: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  - <ID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
+    <Name>k__BackingField: DialogueName4
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 2554.4, y: 52.799995}
+    <Text>k__BackingField: The evolution is such that contemporary American masculinity
+      combines both emotional sensitivity and traditional masculinity.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -101,9 +105,9 @@ MonoBehaviour:
   <OldGroupNames>k__BackingField: []
   <OldUngroupedNodeNames>k__BackingField:
   - DialogueName
+  - DialogueName3
   - DialogueName2
   - DialogueName4
-  - DialogueName3
   <OldGroupedNodeNames>k__BackingField:
     _saintsKeys: []
     _wrapTypeKey: 4

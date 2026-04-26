@@ -17,14 +17,15 @@ MonoBehaviour:
   - <Text>k__BackingField: Continue...
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 8d56cc88a4f4e664b9ff0e0e7a251cf1, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: Kpop male celeberities tend to look more effiminate and
-    gentle. Hence, as chinese women become richer and consume more of such media,
-    their taste and preference for masculinity also shifts towards such traits. In
-    turns, this allows chinese women to negotiate how contemporary masculinity in
-    China is shaped.
+  <Text>k__BackingField: K-pop male celebrities tend to look more effeminate and
+    gentle. Hence, as Chinese women become richer and consume more of such media,
+    their tastes and preferences for masculinity also shift towards such traits.
+    In turn, this allows Chinese women to negotiate how contemporary masculinity
+    in China is shaped through the consumption of such culture as more companies
+    would try to appeal to this trend, therefore normalizing such masculinity.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

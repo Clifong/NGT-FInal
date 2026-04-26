@@ -17,12 +17,15 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: fc02ba533785f364f947b96aa7c1ef10, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: In order to cope with rising cost, men drew themselves deeper
-    into their work, with some dying in the process. Heart failure was one of the
-    leading cause of death for white collar male Americans back then due to stress.
+  <Text>k__BackingField: 'She explained that to cope with rising costs, men threw
+    themselves deeper into their work, with some dying in the process. Heart failure
+    was one of the leading causes of death for white-collar male Americans back then
+    due to stress from working too much.
+
+'
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

@@ -10,21 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e59e3c8b9abe4a499a36e8c9fd4e36e2, type: 3}
-  m_Name: DialogueName2
+  m_Name: 11
   m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueMultipleChoiceSO
-  <NodeName>k__BackingField: DialogueName2
+  <NodeName>k__BackingField: 11
   <Choices>k__BackingField:
   - <Text>k__BackingField: New Choice
-    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 15863c4fcc910e64593b989e30778b21, type: 2}
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 518c6c38861fcac44a8447364683379d, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: The arguement sounds very strange but bear we me.
+  <Text>k__BackingField: As a testament to how popular it is, about 56% of all women
+    in China are fans of Kpop idol groups, That's more than half of the population!
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0
   <RememberChoiceDataSO>k__BackingField: {fileID: 0}
   <ChoicesSO>k__BackingField:
   - {fileID: 0}
-  <BackgroundImage>k__BackingField: {fileID: 7761469775469319506, guid: d8e73123fbee7f64697f411872792092, type: 3}
+  <BackgroundImage>k__BackingField: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}

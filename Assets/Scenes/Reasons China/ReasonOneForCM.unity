@@ -456,29 +456,42 @@ PrefabInstance:
       propertyPath: m_text
       value: '- Growing popularity of South Korean (SK) culture
 
-
-        - More
-        women consume them. More women become affluent. More demand for such media
-
+        
 
         -
-        More income = more likely to travel
+        More women consume them. More women become affluent. More demand for such
+        media
 
+        
 
-        - China people who goes to
-        SK deepen their love for SK culture
+        - More income = more likely to travel
 
+        
 
-        - Chinese men richer = more
-        focus on grooming
+        -
+        Chinese people who go to SK deepen their love for SK culture
 
+        
 
-        - Grooming habits influenced by wives / girlfriends
-        who also tend to like SK idols
+        -
+        Chinese men richer = more focus on grooming
 
+        
 
-        - Increase in demand for SK culture
-        = more SK culture values exported to China = greater appeal for softer masculinity'
+        - Grooming
+        habits influenced by wives/girlfriends who also tend to like SK idols
+
+        
+
+        -
+        Increase in demand for SK culture = more SK culture values exported to China
+        = greater appeal for softer masculinity
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4814376519525123592, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
+      propertyPath: newLevel
+      value: ChinaReasons
       objectReference: {fileID: 0}
     - target: {fileID: 6358050448294613498, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -709,34 +722,6 @@ PrefabInstance:
       propertyPath: currentDialogueObject
       value: 
       objectReference: {fileID: 11400000, guid: cf8f5cd764a31fa4b8119e311eefaf4a, type: 2}
-    - target: {fileID: 8464853216381660474, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8464853216381660474, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8464853216381660474, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8631236245700286660, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8631236245700286660, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8631236245700286660, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -0.000061035156
-      objectReference: {fileID: 0}
-    - target: {fileID: 8689694709784552931, guid: 206d2402e7814d54abf4883470e84f32, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -28.277954
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

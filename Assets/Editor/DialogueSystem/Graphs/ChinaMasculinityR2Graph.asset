@@ -22,31 +22,11 @@ MonoBehaviour:
       <NodeID>k__BackingField: 24e57c24-a0c0-49a1-9b90-8914e9525123
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 1748.8, y: 67.2}
-    <Text>k__BackingField: Similarly, as more women began to work, they are starting
-      to have more power in a relationship with a men now as opposed to back then
+    <Text>k__BackingField: Similarly, as more women began to work, they started to
+      have more power in a relationship with a man, now as opposed to back then.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
-    <Name>k__BackingField: DialogueName6
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 3990.4, y: 76.799995}
-    <Text>k__BackingField: 'As such, Chinese men are required to lean more towards
-      being gentler and softer. This also shifts contemporar China masculinity towards
-      this. '
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -61,12 +41,12 @@ MonoBehaviour:
       <NodeID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 179.2, y: 64}
-    <Text>k__BackingField: Another reason for the adoption of a more gentler kind
+    <Text>k__BackingField: Another reason for the adoption of a more gentle kind
       of masculinity in China's contemporary masculinity is also due to men having
-      to taken on the nurturer's role
+      to take on the nurturer's role.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -82,11 +62,11 @@ MonoBehaviour:
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 957.6, y: 64}
     <Text>k__BackingField: Due to the rising cost of living, there is a greater need
-      for dual income household. As a result, fathers are increasing adopt a less
-      authoritarian role and be more gentler
+      for dual-income households. As a result, fathers are increasing adopt a less
+      authoritarian role and being more gentle.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -98,15 +78,75 @@ MonoBehaviour:
     <Name>k__BackingField: DialogueName4
     <Choices>k__BackingField:
     - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: de7b3002-5558-482a-b306-0fbd192081ec
+      <NodeID>k__BackingField: 41cca65c-1ab9-451a-8fe2-5f6c39aab614
     <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 2551.2, y: 67.2}
+    <Position>k__BackingField: {x: 2542.4, y: 76.799995}
     <Text>k__BackingField: In contemporary China, women are expecting men to be better
-      communicators. Chinese women also perceive traits like sensitivity and emotionally
+      communicators. Chinese women also perceive traits like sensitivity and emotional
       vulnerability as authentic.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 41cca65c-1ab9-451a-8fe2-5f6c39aab614
+    <Name>k__BackingField: 55
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 6bd22fc0-d34f-4d4a-9958-ec01266a02ea
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 3336.8, y: 91.2}
+    <Text>k__BackingField: Moreover, such traits are also gradually being normalised
+      as a consequence of music companies recognising this demand and putting out
+      more songs revolving around such traits.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
+    <Name>k__BackingField: DialogueName6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 5735.2, y: 152}
+    <Text>k__BackingField: 'As such, Chinese women are expecting more Chinese men
+      to be gentler and softer. This also shifts contemporar China masculinity towards
+      this. '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 6bd22fc0-d34f-4d4a-9958-ec01266a02ea
+    <Name>k__BackingField: 66
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: de7b3002-5558-482a-b306-0fbd192081ec
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 4204.8, y: 104.799995}
+    <Text>k__BackingField: 'For example, most of JJ Lin''s songs in China are extremely
+      well known. Most of the songs tend to focus around softness or love that tugs
+      at the heartstring. '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -120,12 +160,12 @@ MonoBehaviour:
     - <Text>k__BackingField: New Choice
       <NodeID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
     <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 3275.2, y: 67.2}
-    <Text>k__BackingField: As such, there is lesser appeal in the "tough and macho"
-      aspect of masculinity, and more focus on this authentic trait.
+    <Position>k__BackingField: {x: 5020, y: 142.40001}
+    <Text>k__BackingField: As such, there is less appeal in the "tough and macho"
+      aspect of masculinity, and more focus on this more authentic and softer traits.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -138,10 +178,12 @@ MonoBehaviour:
   <OldGroupNames>k__BackingField: []
   <OldUngroupedNodeNames>k__BackingField:
   - DialogueName3
-  - DialogueName6
   - DialogueName
   - DialogueName2
   - DialogueName4
+  - 55
+  - DialogueName6
+  - 66
   - DialogueName5
   <OldGroupedNodeNames>k__BackingField:
     _saintsKeys: []

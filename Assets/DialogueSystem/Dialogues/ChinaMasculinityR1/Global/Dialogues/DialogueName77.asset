@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e59e3c8b9abe4a499a36e8c9fd4e36e2, type: 3}
+  m_Name: DialogueName77
+  m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueMultipleChoiceSO
+  <NodeName>k__BackingField: DialogueName77
+  <Choices>k__BackingField:
+  - <Text>k__BackingField: New Choice
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 6cd92f8bb490c594a82551b2a1bf096f, type: 2}
+  <IsStartingDialogue>k__BackingField: 0
+  <Text>k__BackingField: Without the finances to travel, not many Chinese people
+    may have the opportunity to experience the culture first hand which would not
+    have made this fascination as deep as before, as most would probably be more
+    focused on trying to keep up with the cost of living and may not necessarily
+    be thinking about this sort of thing.
+  <Actions>k__BackingField: []
+  <LeftSprites>k__BackingField:
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+  <RightSprites>k__BackingField: []
+  <IsChoiceNode>k__BackingField: 0
+  <IsRememberChoiceNode>k__BackingField: 0
+  <RememberChoiceDataSO>k__BackingField: {fileID: 0}
+  <ChoicesSO>k__BackingField:
+  - {fileID: 0}
+  <BackgroundImage>k__BackingField: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}

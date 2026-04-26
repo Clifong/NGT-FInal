@@ -17,13 +17,13 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 0}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: 'Consequently, the increase in consumption of beauty products
-    amongst chinese men is a way of challenging how masculintiy is potrayed in China.
+  <Text>k__BackingField: Consequently, the increase in consumption of beauty products
+    amongst Chinese men is a way of challenging how masculinity is portrayed in China.
     Now, more men in China are starting to embrace the more contemporary form of
-    masculinity which has an emphasis on softness. '
+    masculinity, which has an emphasis on softness.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

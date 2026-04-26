@@ -17,11 +17,13 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: a8b58eaa6230f894393ede1e23ae351d, type: 2}
   <IsStartingDialogue>k__BackingField: 1
-  <Text>k__BackingField: Contemporary American masculinity, also called hybrid American
-    masculinity, is the an evolution of traditional masculinity.
+  <Text>k__BackingField: 'Contemporary American masculinity, also called hybrid American
+    masculinity, is an evolution of traditional masculinity.
+
+'
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

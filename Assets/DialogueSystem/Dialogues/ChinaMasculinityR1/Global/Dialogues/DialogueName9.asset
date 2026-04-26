@@ -18,11 +18,12 @@ MonoBehaviour:
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: e422bff4f3344684485f9cf60d48d4cd, type: 2}
   <IsStartingDialogue>k__BackingField: 0
   <Text>k__BackingField: 'There are reports that men''s increasing focus on grooming
-    is due to the influence of girlfriends and wives which we mention have a growing
-    demand for South Korean idol culture. '
+    is due to the influence of girlfriends and wives. There is a high likelihood
+    of them being part of the consumer base that demands South Korean idol culture,
+    given its popularity. '
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

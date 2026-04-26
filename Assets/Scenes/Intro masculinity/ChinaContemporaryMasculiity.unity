@@ -130,11 +130,11 @@ PrefabInstance:
     - target: {fileID: 4463356034583026845, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_text
       value: "- Contemporary China masculinity = state engineered masculinity + softness
-        \n\n- State engineered masculinity = masculinity that aligns with nationalistic
-        purpose\n\n- China wants its masculinity to be presented in a way to justify
-        China's economic and cultural prowess\n\n- Hence China's state engineered
-        masculinity seeksto showcase the junzi trait\n\n- Junzi = knowledgeable +
-        loyal"
+        \r\n\r\n- State-engineered masculinity = masculinity that aligns with nationalistic
+        purpose\r\n\r\n- China wants its masculinity to be presented in a way to
+        justify China's economic and cultural prowess\r\n\r\n- Hence, China's state-engineered
+        masculinity seeks to showcase the junzi trait\r\n\r\n- Junzi = knowledgeable
+        + loyal\r\n"
       objectReference: {fileID: 0}
     - target: {fileID: 7670827767168520576, guid: 301d0b2640102ad4890aa9a955e41d26, type: 3}
       propertyPath: m_Pivot.x

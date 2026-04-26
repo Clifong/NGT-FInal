@@ -15,28 +15,6 @@ MonoBehaviour:
   <FileName>k__BackingField: ChinaMasculinityR1
   <Groups>k__BackingField: []
   <DialogueNodes>k__BackingField:
-  - <ID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
-    <Name>k__BackingField: DialogueName2
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: Continue...
-      <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 977.6, y: 53.6}
-    <Text>k__BackingField: Kpop male celeberities tend to look more effiminate and
-      gentle. Hence, as chinese women become richer and consume more of such media,
-      their taste and preference for masculinity also shifts towards such traits.
-      In turns, this allows chinese women to negotiate how contemporary masculinity
-      in China is shaped.
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
   - <ID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
     <Name>k__BackingField: DialogueName3
     <Choices>k__BackingField:
@@ -44,12 +22,14 @@ MonoBehaviour:
       <NodeID>k__BackingField: 24e57c24-a0c0-49a1-9b90-8914e9525123
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 1748.8, y: 67.2}
-    <Text>k__BackingField: Secondly, global capitalism and growing income also meant
-      that more people in China are able to travel. In certain cases, being exposed
-      to another country also deepens one's fascination for the culture of that country,
+    <Text>k__BackingField: 'Secondly, global capitalism and growing income also mean
+      that more people in China can travel. In certain cases, being exposed to another
+      country also deepens one''s fascination with the culture of that country.
+
+'
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -61,16 +41,16 @@ MonoBehaviour:
     <Name>k__BackingField: DialogueName4
     <Choices>k__BackingField:
     - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: de7b3002-5558-482a-b306-0fbd192081ec
+      <NodeID>k__BackingField: 7398d7a1-bbd9-4750-a7e3-c4acef7e0ebd
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 2551.2, y: 67.2}
-    <Text>k__BackingField: In the context of South Korea, the case of "Seoul syndrome"
-      recently amongst China's youth where they suffer intense nostalgia and homesickness
-      for South Korea has been noted to deepen the China's youth fascination for
-      South Korean culture, especially idol culture.
+    <Text>k__BackingField: "In the context of South Korea, the case of \"Seoul syndrome\"
+      has recently been noted amongst China's youth, where they suffer intense nostalgia
+      and homesickness for South Korea, which has been noted to deepen China's youth
+      fascination for South Korean culture, especially that country\u2019s culture."
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -78,122 +58,22 @@ MonoBehaviour:
     ChoiceSO:
     - {fileID: 0}
     BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: d4ce026e-1625-41ea-9e6c-7e4dc07edb22
-    <Name>k__BackingField: DialogueName
+  - <ID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
+    <Name>k__BackingField: DialogueName2
     <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
+    - <Text>k__BackingField: Continue...
+      <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
     <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 179.2, y: 64}
-    <Text>k__BackingField: Firstly, as Kpop culture becomes more popular in China,
-      women's demand for them also increase as well especially when their purchasing
-      power also increases which in turn leads to stronger export for the soft kind
-      of masculinity
+    <Position>k__BackingField: {x: 977.6, y: 53.6}
+    <Text>k__BackingField: K-pop male celebrities tend to look more effeminate and
+      gentle. Hence, as Chinese women become richer and consume more of such media,
+      their tastes and preferences for masculinity also shift towards such traits.
+      In turn, this allows Chinese women to negotiate how contemporary masculinity
+      in China is shaped through the consumption of such culture as more companies
+      would try to appeal to this trend, therefore normalizing such masculinity.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: de7b3002-5558-482a-b306-0fbd192081ec
-    <Name>k__BackingField: DialogueName5
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 3275.2, y: 67.2}
-    <Text>k__BackingField: Hence, in the context of China, rising income and greater
-      access to travelling, in the case to South Korea, also further spurs the exportation
-      of South Korea idol culture in China, which also leads to higher demand for
-      the soft and effeminate mascilinity in China
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
-    <Name>k__BackingField: DialogueName6
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: a75698be-2a23-4c6e-9f20-41eb6c7826a6
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 3990.4, y: 76.799995}
-    <Text>k__BackingField: 'Lastly, growing income has also been noted to have a
-      strong correlation with demand for beauty products in China '
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: a75698be-2a23-4c6e-9f20-41eb6c7826a6
-    <Name>k__BackingField: DialogueName7
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 73754985-6f14-4de5-9d9f-75de203ef4ac
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 4726.4, y: 90.4}
-    <Text>k__BackingField: According to research, the rise in income amongst Chinese
-      men for instance has led to increased focus on grooming. In particular, Chinese
-      men between the age of 18 and 26 have became the main driving force of the
-      male beauty market
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: 73754985-6f14-4de5-9d9f-75de203ef4ac
-    <Name>k__BackingField: DialogueName8
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 226f2f97-6cba-470b-aa92-04e4c996bcf1
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 5499.2, y: 117.6}
-    <Text>k__BackingField: Other than growing income leading to more Chinese men
-      focusing on grooming and hygiene, another factor that leads to this consequence
-      and also indirectly tied to capitalism is again the popularity of South Korean
-      idol  imported into China by global capitalism.
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: 226f2f97-6cba-470b-aa92-04e4c996bcf1
-    <Name>k__BackingField: DialogueName9
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: e187fe49-79bf-4f97-94e6-db17f5dbfb76
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 6248, y: 79.2}
-    <Text>k__BackingField: 'There are reports that men''s increasing focus on grooming
-      is due to the influence of girlfriends and wives which we mention have a growing
-      demand for South Korean idol culture. '
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -207,14 +87,198 @@ MonoBehaviour:
     - <Text>k__BackingField: New Choice
       <NodeID>k__BackingField: 
     <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 6978.4, y: 90.4}
-    <Text>k__BackingField: 'Consequently, the increase in consumption of beauty products
-      amongst chinese men is a way of challenging how masculintiy is potrayed in
+    <Position>k__BackingField: {x: 8752.8, y: 90.4}
+    <Text>k__BackingField: Consequently, the increase in consumption of beauty products
+      amongst Chinese men is a way of challenging how masculinity is portrayed in
       China. Now, more men in China are starting to embrace the more contemporary
-      form of masculinity which has an emphasis on softness. '
+      form of masculinity, which has an emphasis on softness.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 226f2f97-6cba-470b-aa92-04e4c996bcf1
+    <Name>k__BackingField: DialogueName9
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: e187fe49-79bf-4f97-94e6-db17f5dbfb76
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 8022.4, y: 79.2}
+    <Text>k__BackingField: 'There are reports that men''s increasing focus on grooming
+      is due to the influence of girlfriends and wives. There is a high likelihood
+      of them being part of the consumer base that demands South Korean idol culture,
+      given its popularity. '
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: a75698be-2a23-4c6e-9f20-41eb6c7826a6
+    <Name>k__BackingField: DialogueName7
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 73754985-6f14-4de5-9d9f-75de203ef4ac
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 6500.8, y: 90.4}
+    <Text>k__BackingField: 'According to research, the rise in income amongst Chinese
+      men, for instance, has led to increased focus on grooming. In particular, Chinese
+      men between the ages of 18 and 26 have become the main driving force of the
+      male beauty market.
+
+'
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
+    <Name>k__BackingField: DialogueName6
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: a75698be-2a23-4c6e-9f20-41eb6c7826a6
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 5764.8, y: 76.799995}
+    <Text>k__BackingField: Lastly, growing income has also been noted to have a strong
+      correlation with demand for beauty products in China.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: de7b3002-5558-482a-b306-0fbd192081ec
+    <Name>k__BackingField: DialogueName5
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 5d7ac371-347b-4aba-b624-a0b5d01d1074
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 5049.6, y: 67.2}
+    <Text>k__BackingField: Hence, in the context of China, rising income and being
+      able to travel to South Korea also further spur the exportation of South Korean
+      culture in China, which not only leads to higher demand for the soft and effeminate
+      masculinity in China, but also a greater normalisation of such traits in men.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 73754985-6f14-4de5-9d9f-75de203ef4ac
+    <Name>k__BackingField: DialogueName8
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 226f2f97-6cba-470b-aa92-04e4c996bcf1
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 7273.6, y: 117.6}
+    <Text>k__BackingField: Other than growing income leading to more Chinese men
+      focusing on grooming and hygiene, another factor that leads to this consequence
+      and is also indirectly tied to capitalism is the popularity of South Korean
+      idols imported into China by global capitalism.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 7398d7a1-bbd9-4750-a7e3-c4acef7e0ebd
+    <Name>k__BackingField: DialogueName888
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: b2b41d30-f9f5-4557-ac18-c30cf4de2d6e
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 3615.2, y: 94.4}
+    <Text>k__BackingField: After all, travelling is a luxury.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: b2b41d30-f9f5-4557-ac18-c30cf4de2d6e
+    <Name>k__BackingField: DialogueName77
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: de7b3002-5558-482a-b306-0fbd192081ec
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 4332.8, y: 94.4}
+    <Text>k__BackingField: Without the finances to travel, not many Chinese people
+      may have the opportunity to experience the culture first hand which would not
+      have made this fascination as deep as before, as most would probably be more
+      focused on trying to keep up with the cost of living and may not necessarily
+      be thinking about this sort of thing.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: d4ce026e-1625-41ea-9e6c-7e4dc07edb22
+    <Name>k__BackingField: DialogueName
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 238a2a8b-f52f-49d8-81c8-78aeee07512c
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: -388.8, y: 51.199997}
+    <Text>k__BackingField: Firstly, as K-pop culture becomes more popular in China,
+      women's demand for it also increases, especially as their purchasing power
+      rises, which in turn leads to stronger exports of soft masculinity.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: 238a2a8b-f52f-49d8-81c8-78aeee07512c
+    <Name>k__BackingField: 11
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 300.8, y: 51.199997}
+    <Text>k__BackingField: As a testament to how popular it is, about 56% of all
+      women in China are fans of Kpop idol groups, That's more than half of the population!
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -226,16 +290,19 @@ MonoBehaviour:
   <ConditionsOnlyNodes>k__BackingField: []
   <OldGroupNames>k__BackingField: []
   <OldUngroupedNodeNames>k__BackingField:
-  - DialogueName2
   - DialogueName3
   - DialogueName4
-  - DialogueName
-  - DialogueName5
-  - DialogueName6
-  - DialogueName7
-  - DialogueName8
-  - DialogueName9
+  - DialogueName2
   - DialogueName10
+  - DialogueName9
+  - DialogueName7
+  - DialogueName6
+  - DialogueName5
+  - DialogueName8
+  - DialogueName888
+  - DialogueName77
+  - DialogueName
+  - 11
   <OldGroupedNodeNames>k__BackingField:
     _saintsKeys: []
     _wrapTypeKey: 4

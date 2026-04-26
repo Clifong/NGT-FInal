@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Halo
   m_EditorClassIdentifier: Assembly-CSharp::IconsSO
   iconImage: {fileID: 21300000, guid: e74bded2a4d7f66458b30ce1bc6504d9, type: 3}
-  description: The Halo franchise is a first shooter game that follows the protagonist
-    (Master Chief) fighting against any faction that threatens all life in space.
-    Initially, Master Chief is written as a typical stoic and traditionally masculine
-    character. However, some criticise that in recent entries, he has become more
-    emotionally dependent and vulnerable with his female AI companion.
+  description: The Halo franchise is a first-person shooter game that follows the
+    protagonist (Master Chief) fighting against any faction that threatens all life
+    in space. Initially, Master Chief is written as a typical stoic and traditionally
+    masculine character. However, some criticise that in recent entries, he has become
+    more emotionally dependent and vulnerable with his female AI companion.

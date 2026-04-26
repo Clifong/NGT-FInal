@@ -22,13 +22,32 @@ MonoBehaviour:
       <NodeID>k__BackingField: 82315d37-f628-4d6f-8616-90d4f90ee766
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 977.6, y: 53.6}
-    <Text>k__BackingField: State engineered masculinity refers to masculinity that
+    <Text>k__BackingField: State-engineered masculinity refers to masculinity that
       aligns with China's nationalistic values and interests. It seeks to emphasise
-      China's economical and cultural prowess by having men possess both the traits
-      of the traditional Confuscian junzi and demonstrating patriotism
+      China's economic and cultural prowess by having men possess both the traits
+      of the traditional Confucian junzi and demonstrating patriotism.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
+    <RightSprites>k__BackingField: []
+    <IsChoiceNode>k__BackingField: 0
+    <IsRememberChoiceNode>k__BackingField: 0
+    <RememberSO>k__BackingField: {fileID: 0}
+    ChoiceSO:
+    - {fileID: 0}
+    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
+  - <ID>k__BackingField: d4ce026e-1625-41ea-9e6c-7e4dc07edb22
+    <Name>k__BackingField: DialogueName
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
+    <GroupID>k__BackingField: 
+    <Position>k__BackingField: {x: 179.2, y: 64}
+    <Text>k__BackingField: Contemporary China masculinity is, in some sense, a hybrid
+      masculinity that blends state-engineered masculinity and softness.
+    <Actions>k__BackingField: []
+    <LeftSprites>k__BackingField:
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -44,29 +63,10 @@ MonoBehaviour:
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 1776.8, y: 71.2}
     <Text>k__BackingField: In other words, men must be knowledgeable and loyal to
-      their country
+      their country.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
-    <RightSprites>k__BackingField: []
-    <IsChoiceNode>k__BackingField: 0
-    <IsRememberChoiceNode>k__BackingField: 0
-    <RememberSO>k__BackingField: {fileID: 0}
-    ChoiceSO:
-    - {fileID: 0}
-    BackgroundImage: {fileID: -2441277322969603615, guid: 5d833bbe5effc5245b8c8e5380102d6f, type: 3}
-  - <ID>k__BackingField: d4ce026e-1625-41ea-9e6c-7e4dc07edb22
-    <Name>k__BackingField: DialogueName
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: New Choice
-      <NodeID>k__BackingField: 52b55f11-856a-434f-94a1-02ea6f61c8e6
-    <GroupID>k__BackingField: 
-    <Position>k__BackingField: {x: 179.2, y: 64}
-    <Text>k__BackingField: ' Contemporary China masculinity is in some sense a hybrid
-      masculinity that blends state engineered masculinity and softness '
-    <Actions>k__BackingField: []
-    <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -82,10 +82,10 @@ MonoBehaviour:
     <GroupID>k__BackingField: 
     <Position>k__BackingField: {x: 2333.6, y: 81.6}
     <Text>k__BackingField: As for softness, contemporary China masculinity also now
-      need men to be more gentle as opposed to being aggressive and authourative
+      needs men to be more gentle as opposed to being aggressive and authoritative.
     <Actions>k__BackingField: []
     <LeftSprites>k__BackingField:
-    - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+    - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
     <RightSprites>k__BackingField: []
     <IsChoiceNode>k__BackingField: 0
     <IsRememberChoiceNode>k__BackingField: 0
@@ -98,8 +98,8 @@ MonoBehaviour:
   <OldGroupNames>k__BackingField: []
   <OldUngroupedNodeNames>k__BackingField:
   - DialogueName2
-  - DialogueName3
   - DialogueName
+  - DialogueName3
   - DialogueName4
   <OldGroupedNodeNames>k__BackingField:
     _saintsKeys: []

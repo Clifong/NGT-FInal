@@ -17,13 +17,13 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 11400000, guid: 65e34881296cc1e4c8cb4eec60e9acf9, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: American universities and college tend to be more liberal
+  <Text>k__BackingField: American universities and colleges tend to be more liberal
     in nature. A large percentage of students admitted to such institutions lean
-    more towards the liberal left, and staff members similarly also share similar
-    political beliefs.
+    more towards the liberal left, and staff members also share similar political
+    beliefs.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

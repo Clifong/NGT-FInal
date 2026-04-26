@@ -17,12 +17,12 @@ MonoBehaviour:
   - <Text>k__BackingField: New Choice
     <NextDialogue>k__BackingField: {fileID: 0}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: 'As such, Chinese men are required to lean more towards
-    being gentler and softer. This also shifts contemporar China masculinity towards
+  <Text>k__BackingField: 'As such, Chinese women are expecting more Chinese men to
+    be gentler and softer. This also shifts contemporar China masculinity towards
     this. '
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 6584716134473236321, guid: 042a111696a864549ae6a2be7ac704b9, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

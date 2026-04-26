@@ -20,10 +20,10 @@ MonoBehaviour:
   <Text>k__BackingField: As such, it can be seen that fraternities are a way for
     men to climb the social ladder and forge connections that can help them in the
     future. In fact, researchers have found that they help boost a person's income
-    by 36%
+    by 36%.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0

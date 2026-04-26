@@ -10,19 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e59e3c8b9abe4a499a36e8c9fd4e36e2, type: 3}
-  m_Name: DialogueName8
+  m_Name: 1275
   m_EditorClassIdentifier: Assembly-CSharp::DS.ScriptableObjects.DSDialogueMultipleChoiceSO
-  <NodeName>k__BackingField: DialogueName8
+  <NodeName>k__BackingField: 1275
   <Choices>k__BackingField:
   - <Text>k__BackingField: New Choice
-    <NextDialogue>k__BackingField: {fileID: 11400000, guid: 3ff6a3ceeff261d4fba4377699cd803a, type: 2}
+    <NextDialogue>k__BackingField: {fileID: 11400000, guid: ad7548f3225e1134290bc9f9f67702a8, type: 2}
   <IsStartingDialogue>k__BackingField: 0
-  <Text>k__BackingField: A growing number of men felt that feminism was in a sense
-    unfiar. They believed that the money earned by men belonged to "us" (The entire
-    family) but money earned by women belonged to them only
+  <Text>k__BackingField: Not entirely wrong, but there's actually a more effective
+    way.
   <Actions>k__BackingField: []
   <LeftSprites>k__BackingField:
-  - {fileID: 6800915032177342135, guid: 97dbcf3c2e2539d489c7150e0fe63bd8, type: 3}
+  - {fileID: 4657604687955570395, guid: 594dd21517fbf9a419c445a95d896f89, type: 3}
   <RightSprites>k__BackingField: []
   <IsChoiceNode>k__BackingField: 0
   <IsRememberChoiceNode>k__BackingField: 0
